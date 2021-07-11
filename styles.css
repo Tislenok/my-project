@@ -1,17 +1,11 @@
-.text {
-    overflow: visible;
-    margin-top: -10px;
-    margin-left: 10px;
-/*     background-color: rgb(255, 86, 86);
-    display: inline; */
-}
-
 .box {
-    margin-top: 15px; 
+  margin-top: 20px;
 }
 
 .form_field {
-    margin: 10px;
+  margin: 10px;
 }
 
-
+button {
+  margin-top: 10px;
+}
